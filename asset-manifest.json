@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MalgorzataKuszewska/goit-react-hw-07-phonebook/static/css/main.d7a70668.css",
+    "main.js": "/MalgorzataKuszewska/goit-react-hw-07-phonebook/static/js/main.c70e0f9b.js",
+    "index.html": "/MalgorzataKuszewska/goit-react-hw-07-phonebook/index.html",
+    "main.d7a70668.css.map": "/MalgorzataKuszewska/goit-react-hw-07-phonebook/static/css/main.d7a70668.css.map",
+    "main.c70e0f9b.js.map": "/MalgorzataKuszewska/goit-react-hw-07-phonebook/static/js/main.c70e0f9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7a70668.css",
+    "static/js/main.c70e0f9b.js"
+  ]
+}
