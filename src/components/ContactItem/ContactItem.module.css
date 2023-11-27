@@ -1,0 +1,11 @@
+.item {
+  font-size: 18px;
+  padding: 5px;
+}
+
+.buttonDelete {
+  margin-left: 10px;
+  cursor: pointer;
+  border: 1px solid #878686;
+  font-size: 12px;
+}
